@@ -1,1 +1,27 @@
+<<<<<<< HEAD
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml"><url><loc>https://KinOrville.github.io/posts/</loc><lastmod>2025-10-07T23:42:50+08:00</lastmod><changefreq>daily</changefreq><priority>0.5</priority></url><url><loc>https://KinOrville.github.io/</loc><lastmod>2025-10-07T23:42:50+08:00</lastmod><changefreq>daily</changefreq><priority>0.5</priority></url><url><loc>https://KinOrville.github.io/posts/%E7%94%A8sunshine%E5%92%8Cmoonlight%E5%AE%9E%E7%8E%B0%E4%B8%B2%E6%B5%81/</loc><lastmod>2025-10-07T19:08:45+08:00</lastmod><changefreq>daily</changefreq><priority>0.5</priority></url></urlset>
+=======
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+
+  <url>
+    <loc>https://KinOrville.github.io/posts/</loc>
+    <lastmod>2025-10-07T23:42:50+08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://KinOrville.github.io/</loc>
+    <lastmod>2025-10-07T23:42:50+08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://KinOrville.github.io/posts/%E7%94%A8sunshine%E5%92%8Cmoonlight%E5%AE%9E%E7%8E%B0%E4%B8%B2%E6%B5%81/</loc>
+    <lastmod>2025-10-07T19:09:45+08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+</urlset>
+>>>>>>> 6d70efc (public cm)
